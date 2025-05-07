@@ -312,22 +312,13 @@ pip install -r requirements.txt
 ### Data Preprocessing
 ```python
 # Run data preprocessing pipeline
-python src/data/preprocess.py --timeframes M15,H1,H4,D1 --start_date 2017-01-01
-```
-
-### Model Training
-```python
-# Train individual models
-python src/models/train.py --model transformer --epochs 100 --batch_size 64
-
-# Train ensemble
-python src/models/train_ensemble.py --models transformer,xgboost,nbeats
+FEATUREENGINERING.PY
 ```
 
 ### Live Trading
 ```python
 # Start trading bot with preferred model
-python src/trading/bot.py --model ensemble --risk_level medium --account_mt5 YOUR_ACCOUNT
+LIVE_LOOP.PY
 ```
 
 ### Backtesting
