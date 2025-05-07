@@ -410,7 +410,7 @@ MIT License - See LICENSE for details.
 ## 📞 Contact & Support
 
 For questions regarding this project or implementation details, please contact:
-- **Email:** [MESHECK:misheck.kibunja@student.moringaschool.com],
+- **Email:** [MISHECK:misheck.kibunja@student.moringaschool.com],
 [ZENA:zena.weru@student.moringaschool.com],
 [JOSEPH:joseph.mwangi5@student.moringaschool.com],
 [ACINATH:acinath.onkendi@student.moringaschool.com],
